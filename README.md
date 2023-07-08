@@ -15,6 +15,6 @@ During my tenure, I have successfully developed and deployed 7 applications for 
 ## Let's Connect
 If you're looking for a dedicated and skilled Mobile App Developer, feel free to reach out to me. I am confident that my knowledge and expertise can help bring your app ideas to life. Let's collaborate and create amazing mobile experiences together.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/tameem-mahmoud) and check out my [GitHub](https://github.com/tameem-dev) for more information and samples of my work.
+Connect with me on [LinkedIn]([https://www.linkedin.com/in/tameem-mahmoud](https://www.linkedin.com/in/tameem-mahmoud-b67037214/)) and check out my [GitHub](https://github.com/tameem-dev) for more information and samples of my work.
 
 Looking forward to building something great together!
